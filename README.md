@@ -2,4 +2,4 @@
 
 Spellchecking library for Python based on the Enchant library
 
-https://pythonhosted.org/pyenchant/
+https://pypi.python.org/pypi/pyenchant
